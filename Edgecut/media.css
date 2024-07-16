@@ -1,0 +1,18 @@
+@media(max-width:991px){
+    .need-xl{
+        width: 50%;
+    }
+}
+
+@media(max-width:756px){
+    .need-l{
+        width: 50%;
+    }
+    
+}
+
+@media(max-width:655px){
+    .need-sm{
+        width: 100%;
+    }
+}
